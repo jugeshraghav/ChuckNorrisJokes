@@ -1,2 +1,3 @@
 # ChuckNorrisJokes
-A fun API integration project.
+It is a project based on API integration.
+
